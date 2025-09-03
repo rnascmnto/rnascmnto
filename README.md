@@ -18,17 +18,34 @@ Cursando Análise e Desenvolvimento de Sistemas, me especializando em Análise d
 
 ## 📈 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub de Roberto](https://github-readme-stats.vercel.app/api?username=rnascmnto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rnascmnto&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+  />
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rnascmnto&layout=compact&langs_count=7&theme=dracula)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnascmnto&theme=transparent&layout=compact&custom_title=Linguagens&langs_count=10" 
+  />
 
+</p>
 
-## 📫 Contato
+<br clear="both">
 
-<a href="link-do-seu-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/robertonascimento2">
-</a>
-<a href="mailto:seu-email@exemplo.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="robertotnascimentof@gmail.com">
-</a>
+## 📬 Contato
+
+<p>
+  <a href="www.linkedin.com/in/robertonascimento2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:robertotnascimentof@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
