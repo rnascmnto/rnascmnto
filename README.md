@@ -1,6 +1,6 @@
 # 🎲 Roberto Nascimento | Analista de Dados
 
-Cursando Análise e Desenvolvimento de Sistemas, me especializo em Análise de Dados com foco em SQL, Python e Power BI. Busco transformar dados em insights estratégicos que apoiem decisões mais inteligentes.
+Cursando Análise e Desenvolvimento de Sistemas, me especializando em Análise de Dados com foco em SQL, Python e Power BI. Busco transformar dados em insights estratégicos que apoiem decisões mais inteligentes.
 
 ## 🛠️ Skills e Ferramentas
 
